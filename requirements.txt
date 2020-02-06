@@ -1,0 +1,8 @@
+torch
+torchvision
+networkx
+matplotlib
+tb-nightly
+tensorboardX
+pandas
+thop==0.0.30.post1908061501
